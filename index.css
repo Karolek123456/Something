@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+    color:white;
+;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+     background: #1B244A;
+     margin:  150px 150px;
+     width: 600px;
+height: 450px;
+top: -1700px;
+left: -1996px;
+align-content: center;
+
+}
+
+
+.Bottom-btn {
+width: 20px;
+height: 20px;
+top: 26px;
+left: 300px;
+border: 2px solid #9AABD8;
+border-radius: 5px;
+padding: 10px;
+
+}
+.lavenda-txt{
+color:#9AABD8;
+font-family: 'Cursed Timer ULiL', sans-serif;
+width: 30px;
+height: 25.77px;
+top: 280px;
+left: 344px;
+font-size: 18px;
+font-weight: 400;
+line-height: 27.81px;
+text-align: center;
+
+
+                                                
+}
+.buttons-disp-inline {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 26px;
+
+}
+
+.black-background{
+    background: black;
+ width: 155px;
+height: 120px;
+top: 125px;
+left: 337px;
+border-radius: 5px;
+
+
+
+}
+
+.red-number{
+ width: 117px;
+height: 120px;
+top: 125px;
+left: 355px;
+opacity: 0px;
+font-family: Cursed Timer ULiL;
+font-size: 90px;
+font-weight: 400;
+line-height: 126.67px;
+text-align: center;
+color: #F94F6D;
+
+
+
+}
+
+.headers{
+width: 149px;
+height: 36px;
+top: 68px;
+left: 340px;
+font-family: Verdana;
+font-size: 40px;
+font-weight: 700;
+line-height: 35.89px;
+text-align: center;
+
+
+}
+.center{
+    align-items:center; 
+}
+
+.justify-cont{
+   align-content: center;
+
+}
+.shadow{
+ box-shadow: 7px 5px;
+}
